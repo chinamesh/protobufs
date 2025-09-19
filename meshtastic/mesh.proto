@@ -755,9 +755,9 @@ enum HardwareModel {
   T_LORA_PAGER = 103;
 
   /*
-   * M5Stack Reserved
+   * GAT562 Mesh Trial Tracker
    */
-  M5STACK_RESERVED = 104; // 0x68
+  GAT562_MESH_TRIAL_TRACKER = 104;
 
   /*
    * RAKwireless WisMesh Tag
